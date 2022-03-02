@@ -4,13 +4,13 @@ REM ANACONDA3 Environment Helper | Created By DrPleaseRespect
 REM VARIABLES
 
 REM Change Variable to Environment Name
-set c_env=
+set c_env=base
 
 REM Change Variable to Conda Activate Thing
 set c_path="F:\Programs\Anaconda3\Scripts\activate.bat"
 
 REM CLI or GUI? (cli or gui)
-set mode=
+set mode=cli
 
 REM If GUI call (you can leave it blank if cli)
 set gui_file=
