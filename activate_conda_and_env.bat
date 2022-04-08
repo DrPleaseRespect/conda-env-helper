@@ -49,6 +49,7 @@ goto exit_line
 
 REM Main
 :start
+set "bootup_complete="
 title %title%
 color 4A
 echo -- STARTUP SEQUENCE --
